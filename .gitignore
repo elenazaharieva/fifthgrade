@@ -32,5 +32,5 @@
 *.app
 
 # Other
-/Debug/
+Debug/
 .DS_Store
