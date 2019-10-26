@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Other
+/Debug/
 .DS_Store
